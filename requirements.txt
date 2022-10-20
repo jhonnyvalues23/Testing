@@ -1,7 +1,6 @@
 dj-database-url
 django-heroku
 psycopg2
-python-decouple
 whitenoise
 cffi==1.15.1
 click==8.1.3
